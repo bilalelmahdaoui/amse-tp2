@@ -1,7 +1,7 @@
 # IMT Lille Douai - AMSE TP2
 
 
-## Jeu De Taquin
+## Jeu de Taquin
 
 <p align="center"><img src="https://media3.giphy.com/media/TqGlrBQoNTUAvmicHr/giphy.webp"/></p>
 
@@ -30,8 +30,7 @@ The sliding game (Jeu de Taquin) has the following functionalities :
 Clone this repo, run it and you're good to go. Don't worry, no external dependencies used!
 
 ```
-git clone http://www.github.com/bilalelmahdaoui/podcast-app.git
-cd podcast-app
-flutter create .
+git clone http://www.github.com/bilalelmahdaoui/amse-tp2.git
+cd amse-tp2
 flutter run
 ```
